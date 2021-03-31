@@ -1,0 +1,2 @@
+# gitGets
+use to clone 
